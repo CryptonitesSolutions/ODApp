@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365455953847",
+    "project_id": "chatapp-4deb3",
+    "storage_bucket": "chatapp-4deb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365455953847:android:efb748ef92aca35c752232",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwmx4HjFR8a9eFmqTMcwWN5DnTsIL9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365455953847:android:0d9e121d18f4bd7d752232",
+        "android_client_info": {
+          "package_name": "com.responsiveapp.clg.responsiveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwmx4HjFR8a9eFmqTMcwWN5DnTsIL9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
